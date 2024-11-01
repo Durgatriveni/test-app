@@ -70,7 +70,7 @@ const Navbar = () => {
 
 
       {/* //About */}
-      <div className="bg-yellow-100 text-center text-black p-8">
+  <div className="bg-yellow-100 text-center text-black p-8">
   <div className="flex items-center justify-center space-x-6">
     <img src={image} alt="Cafe Klang" className="w-1/2 rounded-md" /> {/* Adjust the width as needed */}
     <div className="w-2/3 space-y-4">  {/* Container for text and button */}
